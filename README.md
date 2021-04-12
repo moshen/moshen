@@ -1,4 +1,6 @@
-### Hi there 👋
+Currently working at Xero
+
+We're hiring! https://jobs.lever.co/xero?lever-via=XwiHpkoGYx
 
 <!--
 **moshen/moshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
